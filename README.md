@@ -45,7 +45,6 @@ npm run dev
 
 Now you should be able to access and interact with the application on your local machine.
 
-
 ---
 
 **Made by [Emanuel Conte](https://github.com/emanuelconte)**
