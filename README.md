@@ -6,7 +6,7 @@ Rock, Paper, Scissors is a simple web-based game where users can play the classi
 ## Link to Play!
 - https://rock-paper-scissors-emanuel-dev-74.vercel.app
 
-## Table of Content
+## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 - [Running the Application](#running-the-application)
